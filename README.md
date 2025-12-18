@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<div align="left">
+<div align="left" style="display:flex; gap:10px; align-items:center;">
   <a href="https://facebook.com/username" target="_blank"
      style="text-decoration:none; outline:none; display:inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
