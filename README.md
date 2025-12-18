@@ -3,40 +3,20 @@
 
 
 ## 🌐 Socials:
-<table role="presentation"
-       border="0"
-       cellpadding="0"
-       cellspacing="0"
-       style="border:none; border-collapse:collapse; box-shadow:none;">
-  <tbody>
-    <tr style="border:none;">
-      <td style="border:none; padding-right:12px;">
-        <a href="https://facebook.com/username">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
-               width="52" height="40" alt="facebook" />
-        </a>
-      </td>
-      <td style="border:none; padding-right:12px;">
-        <a href="https://instagram.com/username">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-               width="52" height="40" alt="instagram" />
-        </a>
-      </td>
-      <td style="border:none; padding-right:12px;">
-        <a href="mailto:email@gmail.com">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-               width="52" height="40" alt="gmail" />
-        </a>
-      </td>
-      <td style="border:none;">
-        <a href="https://discord.gg/invitecode">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-               width="52" height="40" alt="discord" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="left">
+  <a href="https://facebook.com/fauzih.falih" target="_blank style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://instagram.com/fauziiih_" target="_blank style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+  <a href="mailto:fauzihf06@gmail.com" target="_blank style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/fauzih" target="_blank style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+</div>
 
 
 ## 💻 Tech Stack:
