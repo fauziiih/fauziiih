@@ -3,30 +3,30 @@
 
 
 ## 🌐 Socials:
-<div align="left" style="display:flex; gap:10px; align-items:center;">
+<div align="left" style="display:flex; flex-direction:row; gap:12px; align-items:center;">
   <a href="https://facebook.com/username" target="_blank"
-     style="text-decoration:none; outline:none; display:inline-block;">
+     style="text-decoration:none; outline:none; display:inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
          width="52" height="40" alt="facebook"
          style="display:block; border:0;" />
   </a>
 
   <a href="https://instagram.com/username" target="_blank"
-     style="text-decoration:none; outline:none; display:inline-block;">
+     style="text-decoration:none; outline:none; display:inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
          width="52" height="40" alt="instagram"
          style="display:block; border:0;" />
   </a>
 
   <a href="mailto:email@gmail.com"
-     style="text-decoration:none; outline:none; display:inline-block;">
+     style="text-decoration:none; outline:none; display:inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="52" height="40" alt="gmail"
          style="display:block; border:0;" />
   </a>
 
   <a href="https://discord.gg/invitecode" target="_blank"
-     style="text-decoration:none; outline:none; display:inline-block;">
+     style="text-decoration:none; outline:none; display:inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
          width="52" height="40" alt="discord"
          style="display:block; border:0;" />
