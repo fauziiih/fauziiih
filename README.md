@@ -3,27 +3,27 @@
 
 
 ## 🌐 Socials:
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
+<table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none; padding-right:12px;">
       <a href="https://facebook.com/username">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
              width="52" height="40" alt="facebook" />
       </a>
     </td>
-    <td>
+    <td style="border:none; padding-right:12px;">
       <a href="https://instagram.com/username">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
              width="52" height="40" alt="instagram" />
       </a>
     </td>
-    <td>
+    <td style="border:none; padding-right:12px;">
       <a href="mailto:email@gmail.com">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
              width="52" height="40" alt="gmail" />
       </a>
     </td>
-    <td>
+    <td style="border:none; padding-right:12px;">
       <a href="https://discord.gg/invitecode">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
              width="52" height="40" alt="discord" />
