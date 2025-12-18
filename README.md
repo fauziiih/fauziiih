@@ -4,16 +4,16 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://facebook.com/fauzih.falih" target="_blank">
+  <a href="https://facebook.com/fauzih.falih" target="_blank style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
-  <a href="https://instagram.com/fauziiih_" target="_blank">
+  <a href="https://instagram.com/fauziiih_" target="_blank style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="mailto:fauzihf06@gmail.com" target="_blank">
+  <a href="mailto:fauzihf06@gmail.com" target="_blank style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://discord.com/users/fauzih" target="_blank">
+  <a href="https://discord.com/users/fauzih" target="_blank style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
