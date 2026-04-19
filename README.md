@@ -2,13 +2,6 @@
 🔭 I’m currently working on ... for now is nothing hehe<br>💻 I'm Informatics and Computer Engineering Student<br>🔭 I'm currently collage in Politeknik Negeri Ujung Pandang<br>🌱 I’m currently learning more things about Programming<br>🔥 Fun fact i like watching Anime
 
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fauzih.falih)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/fauziiih_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fauzihf06@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/fauzih)
-
 
 ## 💻 Tech Stack:
 <div align="left">
