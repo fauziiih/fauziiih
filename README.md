@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://facebook.com/fauzih.falih" target="_blank">
