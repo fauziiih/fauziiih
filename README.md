@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./numb.gif" alt="numb" width="600" />
+  <img src="./numb.gif" alt="numb" width="800" />
 </div>
 
 ---
