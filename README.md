@@ -10,6 +10,7 @@
 
 
 ## 💻 Tech Stack:
+
 **Languages:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -19,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
 </div>
 
+<br>
 
 **Frameworks & Libraries:**
 <div align="left">
@@ -33,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
 </div>
 
+<br>
 
 **Tools & Design:**
 <div align="left">
