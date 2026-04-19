@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./numb.gif" alt="numb" width="100%" />
+</div>
+
+
 # 💫 About Me:
 🔭 I’m currently working on ... for now is nothing hehe<br>💻 I'm Informatics and Computer Engineering Student<br>🔭 I'm currently collage in Politeknik Negeri Ujung Pandang<br>🌱 I’m currently learning more things about Programming<br>🔥 Fun fact i like watching Anime
 
